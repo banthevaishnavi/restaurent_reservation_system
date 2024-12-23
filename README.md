@@ -1,0 +1,1 @@
+Requirements: xampp , vs code.
